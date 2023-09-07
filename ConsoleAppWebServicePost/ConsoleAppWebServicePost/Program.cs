@@ -23,11 +23,11 @@ namespace ConsoleAppWebServicePost
 
             while (true)
             {
-                Console.WriteLine(" 1 - AysAboneNoList");
+                Console.WriteLine(" 1 - AboneNoList");
                 Console.WriteLine(" 2 - LogServiceTest");
-                Console.WriteLine(" 3 - FindSozlesmeDogrulaByBeyanId");
-                Console.WriteLine(" 4 - TahsilSorgulaByIslemNo");
-                Console.WriteLine(" 5 - TahsilKaydiIptalEdilebilir");
+                Console.WriteLine(" 3 - FSozlesmeDogrulaById");
+                Console.WriteLine(" 4 - TahsilSorgulaByNo");
+                Console.WriteLine(" 5 - TahsilKaydiIptalEt");
                 Console.WriteLine();
                 Console.Write("Kullanmak istediğiniz metodun numarasını yazın ve enter tusuna basın veya çıkış yapmak için 'q' tuşuna basın: ");
                 string metodSecim = Console.ReadLine();
