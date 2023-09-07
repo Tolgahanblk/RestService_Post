@@ -1,0 +1,12 @@
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\bin\Debug\ConsoleAppWebServicePost.exe.config
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\bin\Debug\ConsoleAppWebServicePost.exe
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\bin\Debug\ConsoleAppWebServicePost.pdb
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\bin\Debug\RestSharp.dll
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\obj\Debug\ConsoleAppWebServicePost.csproj.AssemblyReference.cache
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\obj\Debug\ConsoleAppWebServicePost.csproj.SuggestedBindingRedirects.cache
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\obj\Debug\ConsoleAppWebServicePost.csproj.CoreCompileInputs.cache
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\obj\Debug\ConsoleAppWebServicePost.csproj.CopyComplete
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\obj\Debug\ConsoleAppWebServicePost.exe
+C:\Users\BT\source\repos\ConsoleAppWebServicePost\ConsoleAppWebServicePost\obj\Debug\ConsoleAppWebServicePost.pdb
